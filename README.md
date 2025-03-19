@@ -1,1 +1,2 @@
 - ✅ Completed Assignment 1 (Basic Problems) on 19-03-2025
+- ✅ Completed Assignment 2 (Arrays and Map) on 20-03-2025
